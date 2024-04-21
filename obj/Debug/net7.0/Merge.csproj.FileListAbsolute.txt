@@ -1,0 +1,15 @@
+D:\программы c#\Merge\bin\Debug\net7.0\Merge.exe
+D:\программы c#\Merge\bin\Debug\net7.0\Merge.deps.json
+D:\программы c#\Merge\bin\Debug\net7.0\Merge.runtimeconfig.json
+D:\программы c#\Merge\bin\Debug\net7.0\Merge.dll
+D:\программы c#\Merge\bin\Debug\net7.0\Merge.pdb
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.csproj.AssemblyReference.cache
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.GeneratedMSBuildEditorConfig.editorconfig
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.AssemblyInfoInputs.cache
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.AssemblyInfo.cs
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.csproj.CoreCompileInputs.cache
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.dll
+D:\программы c#\Merge\obj\Debug\net7.0\refint\Merge.dll
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.pdb
+D:\программы c#\Merge\obj\Debug\net7.0\Merge.genruntimeconfig.cache
+D:\программы c#\Merge\obj\Debug\net7.0\ref\Merge.dll
